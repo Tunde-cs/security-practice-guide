@@ -1,6 +1,6 @@
-## **Conducting a Security Audit:** 
+## **Conducting a Security Audit: A Guide for Cybersecurity Practices** 
 
-## **Webhound Media Luton,United Kingdom**
+
 
 ## **Introduction**
 
@@ -51,7 +51,7 @@ A security audit is a critical component of any cybersecurity project. It involv
 
 By following these steps and incorporating best practices, I can effectively conduct a security audit for your cybersecurity portfolio projects. A well-executed audit will not only demonstrate my skills but also contribute to the overall security of the organization.
 
-## **Analyzing Network Structure and Security: A Guide for Cybersecurity Portfolio Projects**
+## **Analyzing Network Structure and Security: A Guide for Cybersecurity Practices**
 
 **Introduction**
 
@@ -100,7 +100,7 @@ Understanding the network structure and security posture of an organization is a
 
 By following these steps and incorporating best practices, I can effectively analyze network structure and security for your cybersecurity portfolio projects. A thorough analysis will help me identify vulnerabilities, prioritize remediation efforts, and demonstrate my skills in network security.
 
-## **Using Linux Commands to Manage File Permissions: A Guide for My Cybersecurity Portfolio Projects**
+## **Using Linux Commands to Manage File Permissions: A Guide for Cybersecurity Practices**
 
 **Introduction**
 
@@ -162,7 +162,7 @@ chmod go-rwx sensitive\_data.txt
 
 By mastering these commands and following best practices, I can effectively manage file permissions in Linux and protect sensitive data.
 
-## **Applying Filters to SQL Queries: A Guide for Cybersecurity Portfolio Projects**
+## **Applying Filters to SQL Queries: A Guide for Cybersecurity Practices**
 
 **Introduction**
 
@@ -241,7 +241,7 @@ SELECT customer\_id, order\_total, CASE WHEN order\_total \> 1000 THEN 'High' EL
 
 By effectively applying filters to SQL queries, you can enhance your cybersecurity analysis capabilities. Understanding these techniques will enable you to extract valuable insights from your data, identify potential threats, and protect sensitive information.
 
-## **Identifying Vulnerabilities for a Small Business: A Guide for Cybersecurity Portfolio Projects**
+## **Identifying Vulnerabilities for a Small Business: A Guide for Cybersecurity Practices**
 
 **Introduction**
 
@@ -289,7 +289,7 @@ Even small businesses are susceptible to cyber threats. By proactively identifyi
 
 By following these steps and incorporating best practices, you can effectively identify vulnerabilities for a small business. A thorough assessment will help you prioritize remediation efforts, protect valuable assets, and demonstrate your skills in cybersecurity.
 
-## **Documenting Incidents with an Incident Handler's Journal: A Guide for Cybersecurity Portfolio Projects**
+## **Documenting Incidents with an Incident Handler's Journal: A Guide for Cybersecurity Practices**
 
 **Introduction**
 
@@ -344,7 +344,7 @@ An incident handler's journal is a critical tool for documenting and analyzing s
 
 By following these guidelines, you can create a comprehensive and informative incident handler's journal that serves as a valuable resource for future incident response efforts.
 
-## **Importing and Parsing a Text File in a Security-Related Scenario: A Guide for Cybersecurity Portfolio Projects**
+## **Importing and Parsing a Text File in a Security-Related Scenario: A Guide for Cybersecurity Practices**
 
 **Introduction**
 
